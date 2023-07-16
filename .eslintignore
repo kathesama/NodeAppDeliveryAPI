@@ -1,0 +1,9 @@
+node_modules
+dist
+**/*.md
+.babelrc
+jest.config.ts
+# don't lint nyc coverage output
+coverage
+.eslintrc.js
+.babel.config.js
